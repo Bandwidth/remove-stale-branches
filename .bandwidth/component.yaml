@@ -6,6 +6,7 @@ metadata:
   description: Forked from fpicalausa/remove-stale-branches
   annotations:
     github.com/project-slug: Bandwidth/remove-stale-branches
+    bandwidth.com/languages: Node.js
   organization: BW
   costCenter: Development - Software Infra
   platformType: N/A
